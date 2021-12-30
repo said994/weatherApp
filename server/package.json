@@ -13,6 +13,7 @@
   },
   "devDependencies": {},
   "scripts": {
+    "run":"node server",
     "start": "nodemon server"
   },
   "keywords": [],
