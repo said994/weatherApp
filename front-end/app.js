@@ -10,7 +10,7 @@ const icon = document.querySelector(".icon");
 const alertContainer = document.querySelector(".alert");
 const alertText = document.querySelector(".alert p");
 
-const server = "http://localhost:3000/";
+const server = "https://rocky-inlet-97917.herokuapp.com/";
 
 window.addEventListener("load", getLocation);
 
